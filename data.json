@@ -1,0 +1,367 @@
+[
+  {
+    "nome": "Paper Rex",
+    "descricao": "Conhecidos pelo estilo de jogo 'W-Key' (agressividade extrema) e por serem finalistas do VCT Champions, representando o Pacífico com muita paixão.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@PaperRex",
+    "tags": [
+      "VCT Pacífico",
+      "Estilo Agressivo",
+      "Duelistas",
+      "Estratégia Flexível"
+    ],
+    "imagem": "https://yt3.ggpht.com/ytc/AKedOLSBotj3ShkoClzNM7VlRzKQeZm0pb3D4QfpYu86=s900-c-k-c0x00ffffff-no-rj",
+    "classe": "purple"
+  },
+  {
+    "nome": "LOUD",
+    "descricao": "Potência brasileira e primeiros campeões mundiais da história do Valorant (Champions 2022). Mantêm uma das maiores bases de fãs do cenário.",
+    "data_criacao": "2022",
+    "link": "https://www.youtube.com/@LOUDVALORANT",
+    "tags": [
+      "VCT Américas",
+      "Campeões Mundiais",
+      "Controladores",
+      "Franquia"
+    ],
+    "imagem": "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2022/12/01.jpg",
+    "classe": "green"
+  },
+  {
+    "nome": "Fnatic",
+    "descricao": "Equipe dominante na região EMEA, conhecida por sua disciplina tática e por conquistar os primeiros Masters do ano em temporadas recentes.",
+    "data_criacao": "2021",
+    "link": "https://www.youtube.com/@FNATIC",
+    "tags": [
+      "VCT EMEA",
+      "Dominância",
+      "Táticas Estruturadas",
+      "Iniciadores"
+    ],
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.sNAV23002_Fy33aF0FpK-QHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "orange"
+  },
+  {
+    "nome": "Evil Geniuses",
+    "descricao": "Campeões do VCT Champions 2023. Notáveis pela evolução tática ao longo do ano e pelo uso eficaz de composições fora do meta.",
+    "data_criacao": "2021",
+    "link": "https://www.youtube.com/@EvilGeniuses",
+    "tags": [
+      "VCT Américas",
+      "Campeões Champions",
+      "Adaptação de Meta",
+      "Agentes Sentinelas"
+    ],
+    "imagem": "https://static.valorantzone.gg/news/2023/10/13201150/Design-sem-nome-10.png",
+    "classe": "blue"
+  },
+  {
+    "nome": "Gen.G Esports",
+    "descricao": "Uma das equipes coreanas mais fortes, com um histórico de performance consistente em torneios internacionais, focada em precisão e execução perfeita.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@gengesports",
+    "tags": [
+      "VCT Pacífico",
+      "Coreia do Sul",
+      "Precisão Tática",
+      "Estrutura"
+    ],
+    "imagem": "https://mms.businesswire.com/media/20180503006627/en/655700/23/Gen.G_Logo.jpg",
+    "classe": "purple"
+  },
+  {
+    "nome": "Team Liquid",
+    "descricao": "Organização tradicional do cenário de esports, conhecida por sua capacidade de recrutar talentos e por ter elencos com grande poder de fogo na Europa.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@TeamLiquidVALORANT",
+    "tags": [
+      "VCT EMEA",
+      "Consistência",
+      "Riflers",
+      "Talento Individual"
+    ],
+    "imagem": "https://www.nicepng.com/png/detail/110-1100326_team-liquid-team-liquid-logo.png",
+    "classe": "blue"
+  },
+  {
+    "nome": "Cloud9",
+    "descricao": "Uma das maiores marcas norte-americanas, frequentemente competindo no topo do VCT Américas com composições e estratégias inovadoras.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@Cloud9",
+    "tags": [
+      "VCT Américas",
+      "Inovação",
+      "NA Esports",
+      "Flexibilidade de Rotação"
+    ],
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.e3Dj5vbD0DrpqNblcrHYVgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "blue"
+  },
+  {
+    "nome": "DRX",
+    "descricao": "Equipe coreana notória por seus 'playbooks' complexos e execuções impecáveis. Conhecidos por serem uma das equipes mais estudadas pelos rivais.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@DrxGlobal",
+    "tags": [
+      "VCT Pacífico",
+      "Playbook Detalhado",
+      "Estrutura Coreana",
+      "Iniciadores Sábios"
+    ],
+    "imagem": "https://esportbet.com/wp-content/uploads/2022/09/DRX.jpg",
+    "classe": "blue"
+  },
+  {
+    "nome": "ZETA DIVISION",
+    "descricao": "Time japonês com uma das maiores bases de fãs globais. Seu desempenho no Masters Reykjavik 2022 elevou o cenário japonês no mapa mundial.",
+    "data_criacao": "2021",
+    "link": "https://www.youtube.com/@ZETADIVISION",
+    "tags": [
+      "VCT Pacífico",
+      "Japão",
+      "Popularidade",
+      "Estilo Rápido"
+    ],
+    "imagem": "https://staticg.sportskeeda.com/editor/2022/09/fa278-16620078563682-1920.jpg",
+    "classe": "white"
+  },
+  {
+    "nome": "KRÜ Esports",
+    "descricao": "A equipe que representou a América Latina de forma histórica, protagonizando grandes 'upsets' em vários torneios internacionais de 2021 e 2022.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@KRUEsports",
+    "tags": [
+      "VCT Américas",
+      "LATAM",
+      "Underdog",
+      "Ascensão em Champions"
+    ],
+    "imagem": "https://mir-s3-cdn-cf.behance.net/projects/404/a2fe06180037327.Y3JvcCwxNTAwLDExNzMsMCwxNjM.png",
+    "classe": "black"
+  },
+  {
+    "nome": "100 Thieves",
+    "descricao": "Organização focada em branding e moda, mantendo uma equipe competitiva no VCT Américas, conhecida por performances intensas em etapas decisivas.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@100Thieves",
+    "tags": [
+      "VCT Américas",
+      "Marca Forte",
+      "Mid-Round Calls",
+      "Performance no Clutch"
+    ],
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.3dAwDbAC6Osmr5vI1APVVQHaEU?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "red"
+  },
+  {
+    "nome": "2Game",
+    "descricao": "Conhecidos pelo jogo agressivo e acelerado. Recentemente venceram o VCT Ascension, mostrando força mecânica e ritmo explosivo.",
+    "data_criacao": "2022",
+    "link": "https://www.youtube.com/@2GAMEVLR",
+    "tags": [
+      "VCT EMEA",
+      "Esports Ibéricos",
+      "Construção de Elenco",
+      "Franquia"
+    ],
+    "imagem": "https://png.pngitem.com/pimgs/s/419-4191185_2game-logo-hd-png-download.png",
+    "classe": "purple"
+  },
+  {
+    "nome": "Karmine Corp",
+    "descricao": "Gigante francês de esports com uma 'fanbase' lendária (KCorp Blue Wall). Trazem uma energia incomparável para as competições presenciais da EMEA.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@Karmine_Corp",
+    "tags": [
+      "VCT EMEA",
+      "Fanbase Massiva",
+      "França",
+      "Pressão de Jogo"
+    ],
+    "imagem": "https://th.bing.com/th/id/R.82bb9cf31021b3eff6a0dfb98a006d94?rik=74xUYBOMbpnDPg&pid=ImgRaw&r=0",
+    "classe": "blue"
+  },
+  {
+    "nome": "MIBR",
+    "descricao": "Marca tradicional brasileira que busca reestruturar seu domínio no cenário VCT Américas, conhecida pela resiliência e foco no talento local.",
+    "data_criacao": "2022",
+    "link": "https://www.youtube.com/@MIBRVALORANT",
+    "tags": [
+      "VCT Américas",
+      "Brasil",
+      "Reconstrução",
+      "Jogadas de Risco"
+    ],
+    "imagem": "https://mb.cision.com/Public/16839/3053270/b8bac933fea1ae80_org.png",
+    "classe": "blue"
+  },
+  {
+    "nome": "EDward Gaming",
+    "descricao": "A equipe que liderou a invasão chinesa no cenário internacional de Valorant. Conhecida pela habilidade mecânica individual e 'Operator' dominante.",
+    "data_criacao": "2022",
+    "link": "https://www.youtube.com/@edgedwardgaming8648",
+    "tags": [
+      "China",
+      "Emergente",
+      "Habilidade Mecânica",
+      "Operator"
+    ],
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.y5FtoPxeOg0jvQjdd8hz4wHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "red"
+  },
+  
+  {
+    "nome": "Bilibili Gaming",
+    "descricao": "Outra potência chinesa que rapidamente se estabeleceu como um desafiante sério, utilizando estratégias que privilegiam o confronto direto.",
+    "data_criacao": "2022",
+    "link": "https://www.youtube.com/watch?v=7sEOXdTfHnQ",
+    "tags": [
+      "China",
+      "Confronto Direto",
+      "Rifles de Precisão",
+      "VCT China"
+    ],
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.Wp1OOTaHMFc2oGiTVynX1wHaE8?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "blue"
+  },
+  {
+    "nome": "T1",
+    "descricao": "Organização lendária que investe fortemente na região do Pacífico, misturando veteranos de CS:GO com novos talentos do Valorant.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@T1valorant",
+    "tags": [
+      "VCT Pacífico",
+      "Marca Global",
+      "Veteranos de FPS",
+      "Composições Híbridas"
+    ],
+    "imagem": "https://images.squarespace-cdn.com/content/v1/5f42e7413e05d9151925d10a/1598220186210-VDLDZEUIFTN12E0X60TX/Red+Logo.png",
+    "classe": "black"
+  },
+  {
+    "nome": "NRG Esports",
+    "descricao": "Equipe do VCT Américas conhecida por adquirir elencos de alto calibre e por sua capacidade de fazer adaptações rápidas entre as etapas do torneio.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@NRGVALORANT",
+    "tags": [
+      "VCT Américas",
+      "Alto Investimento",
+      "Adaptabilidade Rápida",
+      "Poder de Fogo"
+    ],
+    "imagem": "https://images.seeklogo.com/logo-png/53/1/nrg-logo-png_seeklogo-531823.png",
+    "classe": "orange"
+  },
+  {
+    "nome": "Sentinels",
+    "descricao": "Time marcado pela disciplina tática e clutchs decisivos, impondo ritmo nas rodadas importantes. Recentemente conquistaram o Masters Madrid, reforçando sua força em palcos internacionais.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@Sentinels",
+    "tags": [
+      "VCT Americas",
+      "NA Esports",
+      "Expansão de Esports",
+      "Tenz"
+    ],
+    "imagem": "https://cdn-wp.thesportsrush.com/2023/09/6c67cd68-sentinelsbackgroundaug2020.jpg?format=auto&w=3840&q=75",
+    "classe": "red"
+  },
+  {
+    "nome": "Envy",
+    "descricao": "Com um jogo organizado e explosivo nas execuções, a equipe se destaca pela precisão e coordenação. Recentemente venceu o VCT Ascension Americas, garantindo vaga na liga internacional.",
+    "data_criacao": "2021",
+    "link": "https://www.youtube.com/@TeamEnvy",
+    "tags": [
+      "VCT Americas",
+      "Ascension",
+      "Coordenação",
+      "Challengers Ascensão"
+    ],
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.4VXkaopat5iffFikRncp9wHaIb?w=500&h=569&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "black"
+  },
+  {
+    "nome": "Team Heretics",
+    "descricao": "Equipe sediada na Espanha com forte presença na VCT EMEA, focada em desenvolvimento de talentos e consistência em ligas regionais.",
+    "data_criacao": "2021",
+    "link": "https://www.youtube.com/@TeamHeretics",
+    "tags": [
+      "VCT EMEA",
+      "Desenvolvimento de Talentos",
+      "Espanha",
+      "Estrutura Sólida"
+    ],
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.xD88xDxssXoI8bJvL-2XqgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "orange"
+  },
+  {
+    "nome": "FURIA Esports",
+    "descricao": "Organização brasileira famosa por seu estilo de jogo agressivo e imprevisível, frequentemente usando o caos a seu favor no VCT Américas.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@furiagg",
+    "tags": [
+      "VCT Américas",
+      "Brasil",
+      "Agressividade",
+      "Imprevisibilidade Tática"
+    ],
+    "imagem": "https://www.negitaku.org/wp-content/uploads/2019/06/furia.jpg",
+    "classe": "black"
+  },
+  {
+    "nome": "GIANTX",
+    "descricao": "Organização europeia resultante da fusão entre Giants Gaming e Excel Esports. Competem no VCT EMEA, combinando a experiência de duas marcas estabelecidas.",
+    "data_criacao": "2023",
+    "link": "https://www.youtube.com/@GIANTXVALORANT",
+    "tags": [
+      "VCT EMEA",
+      "Fusão",
+      "Europa",
+      "Competitividade"
+    ],
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.l3cba4aa6HC9xKIRR7nP0AHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "classe": "blue"
+  },
+  {
+    "nome": "Dragon Ranger Gaming",
+    "descricao": "Equipe chinesa que surpreendeu ao vencer o VCT China Ascension 2023, garantindo sua vaga na liga principal. Conhecidos por um estilo de jogo metódico.",
+    "data_criacao": "2023",
+    "link": "https://www.youtube.com/watch?v=Je39scQR70U",
+    "tags": [
+      "VCT China",
+      "Ascension Winner",
+      "China",
+      "Jogo Metódico"
+    ],
+    "imagem": "https://cdn.thespike.gg/Events%2520X/168px-Dragon_Ranger_Gaming_logo_without_text_allmode_1683031074174.png",
+    "classe": "green"
+  },
+  {
+    "nome": "G2 Esports",
+    "descricao": "Marca icônica que retornou ao topo do cenário norte-americano. Conhecida por sua mentalidade competitiva e por performances chamativas em torneios de alto nível.",
+    "data_criacao": "2020",
+    "link": "https://www.youtube.com/@G2esports",
+    "tags": [
+      "VCT Américas",
+      "Reentrada",
+      "Europa/NA",
+      "Mentalidade Vencedora"
+    ],
+    "imagem": "https://logowik.com/content/uploads/images/g2-esport6091.jpg",
+    "classe": "red"
+  },
+  {
+    "nome": "Leviatán",
+    "descricao": "Potência da América Latina que compete no VCT Américas. Conhecidos por seu jogo tático e por serem uma força consistente na região, com uma grande rivalidade local.",
+    "data_criacao": "2021",
+    "link": "https://www.youtube.com/@LEVIATANVALORANT",
+    "tags": [
+      "VCT Américas",
+      "LATAM",
+      "Rivalidade Regional",
+      "Jogo Tático"
+    ],
+    "imagem": "https://www.esportsbets.com/br/wp-content/uploads/sites/2/2023/06/levitian-valorant-teams.webp",
+    "classe": "blue"
+  }
+]
